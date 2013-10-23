@@ -1,5 +1,4 @@
 # iTerm 2 Color Theme - Gaff
-============================
 
 ![Preview](https://raw.github.com/linuslundahl/iTerm-Gaff/master/preview.png)
 
